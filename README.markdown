@@ -1,3 +1,7 @@
+### What is Bamboo?
+
+Bamboo is a continuous integration and continuous deployment server developed by Atlassian. Bamboo Ties automated builds, tests, and releases together in a single workflow by integrating with other Atlassian products such as JIRA, Bitbucket, Stash, Hipchat and Confluence
+
 About the project
 =================
 Project Bamboo, which at some point will probably need a new name, is a virtual board game. It is currently being worked on, the goal is to have a playable version in a couple of weeks.
